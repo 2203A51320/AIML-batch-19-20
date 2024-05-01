@@ -11,3 +11,5 @@ lab[5]     (https://github.com/2203A51320/AIML-batch-19-20/blob/main/LAB_05.ipyn
 lab[1]   (https://github.com/2203A51320/AIML-batch-19-20/blob/main/Lab01_AIML.ipynb)
 
 lab[3]   (https://github.com/2203A51320/AIML-batch-19-20/blob/main/LAB_03.ipynb)
+
+lab[8]   (https://github.com/2203A51320/AIML-batch-19-20/blob/main/LAB_08.ipynb)
